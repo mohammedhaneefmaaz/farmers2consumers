@@ -3,11 +3,12 @@
 * {
     box-sizing: border-box;
     text-decoration: none;
+    background-color: #fff;
     
   }
 
 body{
-    background: #fff;
+    background: rgb(255, 255, 255);
     background-image: url(img/background.jpg);
     height: auto;
     width: auto;
@@ -122,6 +123,7 @@ transition: background 0.5s;
         box-shadow: 15px 5px 26px rgb(165, 165, 165);
         overflow: hidden; 
         object-fit: cover;
+        background-color: #fff;
        
 
     }
@@ -135,8 +137,9 @@ transition: background 0.5s;
     
     }
     .mzpic{
-        width: 250px;
-        max-width: 980px;
+        height: 1000px;
+        width: 500px;
+        max-width: 500px;
         image-resolution: 100px;
     }
 
