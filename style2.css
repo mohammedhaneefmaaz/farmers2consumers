@@ -137,9 +137,9 @@ transition: background 0.5s;
     
     }
     .mzpic{
-        height: 1000px;
-        width: 500px;
-        max-width: 500px;
+       
+        width: 980px;
+        max-width: 100px;
         image-resolution: 100px;
     }
 
